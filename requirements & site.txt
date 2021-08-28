@@ -1,0 +1,9 @@
+requirements modules:
+pip install aiohttp
+----------------------------------------------
+page for generating names: https://www.thewordfinder.com/random-letter-generator/
+
+
+credits:
+github.com/krxysiu666
+youtube: reeq666
